@@ -1,0 +1,107 @@
+{
+  "code": 200,
+  "message": "Successfully!",
+  "data": [
+    {
+      "organId": 1,
+      "organName": "Renal systems",
+      "listLesson": [
+        {
+          "lessonId": 1,
+          "lessonTitle": "Gladys Stein",
+          "lessonThumbnail": "Thumbnail/Lesson/Heart"
+        },
+        {
+          "lessonId": 2,
+          "lessonTitle": "Buchanan Abbott",
+          "lessonThumbnail": "Thumbnail/Lesson/Micro"
+        }
+      ]
+    },
+    {
+      "organId": 2,
+      "organName": "Respiratory systems",
+      "listLesson": [
+        {
+          "lessonId": 3,
+          "lessonTitle": "Blood `~!@#$%^&*()-_,./?\\|",
+          "lessonThumbnail": "Thumbnail/Lesson/Micro"
+        },
+        {
+          "lessonId": 4,
+          "lessonTitle": "The right side of the heart <script> alert (1) </script>",
+          "lessonThumbnail": "Thumbnail/Lesson/Endocrine"
+        }
+      ]
+    },
+
+    {
+      "organId": 3,
+      "organName": "Skeleton systems",
+      "listLesson": [
+        {
+          "lessonId": 5,
+          "lessonTitle": "Blood `~!@#$%^&*()-_,./?\\|",
+          "lessonThumbnail":  "Thumbnail/Lesson/Digestive"
+        },
+        {
+          "lessonId": 6,
+          "lessonTitle": "The right side of the heart <script> alert (1) </script>",
+          "lessonThumbnail":  "Thumbnail/Lesson/Digestive"
+        }
+      ]
+    },
+
+    {
+      "organId": 4,
+      "organName": "Digestive system",
+      "listLesson": [
+        {
+          "lessonId": 7,
+          "lessonTitle": "Blood `~!@#$%^&*()-_,./?\\|",
+          "lessonThumbnail": "Thumbnail/Lesson/Digestive"
+        },
+        {
+          "lessonId": 8,
+          "lessonTitle": "The right side of the heart <script> alert (1) </script>",
+          "lessonThumbnail": "Thumbnail/Lesson/Digestive"
+        }
+      ]
+    },
+
+    {
+      "organId": 5,
+      "organName": "Muscular system",
+      "listLesson": [
+        {
+          "lessonId": 9,
+          "lessonTitle": "Blood `~!@#$%^&*()-_,./?\\|",
+          "lessonThumbnail": "Thumbnail/Lesson/Digestive"
+        },
+        {
+          "lessonId": 10,
+          "lessonTitle": "The right side of the heart <script> alert (1) </script>",
+          "lessonThumbnail": "Thumbnail/Lesson/Digestive"
+        }
+      ]
+    },
+
+    {
+      "organId": 6,
+      "organName": "Meyer system",
+      "listLesson": [
+        {
+          "lessonId": 11,
+          "lessonTitle": "Blood `~!@#$%^&*()-_,./?\\|",
+          "lessonThumbnail": "Thumbnail/Lesson/Digestive"
+        },
+        {
+          "lessonId": 12,
+          "lessonTitle": "The right side of the heart <script> alert (1) </script>",
+          "lessonThumbnail": "Thumbnail/Lesson/Digestive"
+        }
+      ]
+    }
+
+  ]
+}

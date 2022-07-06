@@ -1,0 +1,35 @@
+{
+    "categories": 
+    [
+      {
+        "id": 0,
+        "name": "Renal systems",
+        "parent_id": "NULL"
+      },
+      {
+        "id": 1,
+        "name": "Respiratory systems",
+        "parent_id": "NULL"
+      },
+      {
+        "id": 2,
+        "name": "Skeleton system",
+        "parent_id": "NULL"
+      },
+      {
+        "id": 3,
+        "name": "Digestive system",
+        "parent_id": "NULL"
+      },
+      {
+        "id": 4,
+        "name": "Muscular system",
+        "parent_id": "NULL"
+      },
+      {
+        "id": 5,
+        "name": "Meyer system",
+        "parent_id": "NULL"
+      }
+    ]
+}

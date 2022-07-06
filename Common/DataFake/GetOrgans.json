@@ -1,0 +1,68 @@
+{
+  "code": 200,
+  "message": "Successfully!",
+  "meta": {
+    "page": 1,
+    "pageSize": 20,
+    "totalPages": 1,
+    "totalElements": 8
+  },
+  "data": [
+      {
+        "lessonId": 1,
+        "lessonTitle": "Blood",
+        "lessonThumbnail": "Thumbnail/Lesson/Heart",
+        "viewed": 0,
+        "isFavorate": 1
+      },
+      {
+        "lessonId": 2,
+        "lessonTitle": "The heart pumps blood around the body",
+        "lessonThumbnail": "Thumbnail/Lesson/Micro",
+        "viewed": 1,
+        "isFavorate": 0
+      },
+      {
+        "lessonId": 3,
+        "lessonTitle": "The right side of the heart",
+        "lessonThumbnail": "Thumbnail/Lesson/Micro",
+        "viewed": 2,
+        "isFavorate": 1
+      },
+      {
+        "lessonId": 4,
+        "lessonTitle": "The left side of the heart",
+        "lessonThumbnail": "Thumbnail/Lesson/Endocrine",
+        "viewed": 3,
+        "isFavorate": 1
+      },
+      {
+        "lessonId": 5,
+        "lessonTitle": "Blood vessels",
+        "lessonThumbnail": "Thumbnail/Lesson/Digestive",
+        "viewed": 100,
+        "isFavorate": 1
+      },
+      {
+        "lessonId": 6,
+        "lessonTitle": "Arteries <script> alert(1)</script>",
+        "lessonThumbnail": "Thumbnail/Lesson/Endocrine",
+        "viewed": 52,
+        "isFavorate": 0
+      },
+      {
+        "lessonId": 7,
+        "lessonTitle": "Capillaries `~!@#$%^&*()-_,./?\\|",
+        "lessonThumbnail": "Thumbnail/Lesson/Micro",
+        "viewed": 12,
+        "isFavorate": 1
+      },
+      {
+        "lessonId": 8,
+        "lessonTitle": "Veins Infrateporal fossa Arteries and veins Infrateporal fossa Arteries and veins",
+        "lessonThumbnail": "Thumbnail/Lesson/Micro",
+        "viewed": 5,
+        "isFavorate": 1
+      }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "code": 200,
+  "message": "Successfully!",
+  "data": {
+    "myFavorates": [
+
+      {
+        "lessonId": 1,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular4",
+        "lessonTitle": "Horizontal section of the celebrum",
+        "viewed": 10,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 2,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular4",
+        "lessonTitle": "Horizontal section of the celebrum",
+        "viewed": 20,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 3,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular4",
+        "lessonTitle": "Horizontal section of the celebrum",
+        "viewed": 10,
+        "isFavorate": 1
+      },
+      
+      {
+        "lessonId": 4,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular4",
+        "lessonTitle": "Horizontal section of the celebrum",
+        "viewed": 20,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 5,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular4",
+        "lessonTitle": "Horizontal section of the celebrum",
+        "viewed": 10,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 6,
+        "lessonThumbnail": "Sprites/Organs/image13",
+        "lessonTitle": "Infratemporal fossa Arteries and veins",
+        "viewed": 20,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 7,
+        "lessonThumbnail": "Sprites/Organs/image13",
+        "lessonTitle": "Infratemporal fossa Arteries and veins",
+        "viewed": 10,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 8,
+        "lessonThumbnail": "Sprites/Organs/image13",
+        "lessonTitle": "Infratemporal fossa Arteries and veins",
+        "viewed": 20,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 9,
+        "lessonThumbnail": "Sprites/Organs/image13",
+        "lessonTitle": "Infratemporal fossa Arteries and veins",
+        "viewed": 10,
+        "isFavorate": 1
+      },
+
+      {
+        "lessonId": 10,
+        "lessonThumbnail": "Sprites/Organs/image13",
+        "lessonTitle": "Infratemporal fossa Arteries and veins",
+        "viewed": 10,
+        "isFavorate": 1
+      }
+      
+    ],
+    "mostViewed": [
+
+      {
+        "lessonId": 10,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular5",
+        "lessonTitle": 1,
+        "viewed": 2,
+        "isFavorate": 0
+      }
+
+    ],
+
+    "recommendedLessons": [
+
+      {
+        "lessonId": 4,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular4",
+        "lessonTitle": 1,
+        "viewed": 2,
+        "isFavorate": 0
+      }
+      
+    ],
+    "myLessons": [
+
+      {
+        "lessonId": 2,
+        "lessonThumbnail": "Sprites/Organs/Cardiovascular2",
+        "lessonTitle": 1,
+        "viewed": 2,
+        "isFavorate": 0
+      }
+
+    ]
+    
+  }
+}
